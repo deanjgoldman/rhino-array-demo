@@ -1,5 +1,6 @@
 # rhino_array_demo
-### A python script to array any mesh object(s), along a point cloud or vertice list of another object.
+A python script to array any mesh object(s), along a point cloud or vertice list of another object.
+Hopefully a useful and simple demo for anyone interested in scripting for Rhino. 
 
 ## Before
 ![?](https://github.com/dgoldman916/rhino_array_demo/blob/master/before.png)
